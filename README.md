@@ -47,3 +47,4 @@
 ***
 
 ## 클래스 다이어그램
+![클래스 다이어그램](https://github.com/sangwonsheep/one_card/assets/120084331/fdcfcbd6-b4e0-49f8-b7d9-a958df4d7229)
